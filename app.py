@@ -64,3 +64,7 @@ def page_not_found(error):
 @app.errorhandler(500)
 def page_not_found(error):
     return render_template('500.html'), 500
+
+
+if __name__ =='__main__':
+    app.run(host='0.0.0.0', port=os.environ.get("PORT"), debug=True)
