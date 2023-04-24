@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: unb_pro_regular
+font link: http://www.marca.unb.br/fontesunb.php
+font author: Universidade de Brasilia
+font author site: http://www.marca.unb.br/introducao.php
+
+
+icon designer: IconfactoryTeam
+icon designer link: /iconfactoryteam
+        
+{"bg":"transparent","icon-gradient-0":"#177775","icon-gradient-1":"#28D2BF","font":"#000000","slogan":"#141414"}
+      

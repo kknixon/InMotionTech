@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "unb_pro_regular" !important;
+  src: url(/static/fonts/UnB\ Pro_Regular.otf);
+}
+
+
+#intro {
+  background-image: url("/static/img/cloud-technology-web-internet-business-developer-646713-pxhere.com.jpg");
+  height: 100vh;
+}
+
+/* Height for devices larger than 576px */
+@media (min-width: 992px) {
+  #intro {
+    margin-top: -58.59px;
+  }
+}
+
+.navbar .nav-link {
+  color: #177775 !important;
+}
+
+
+

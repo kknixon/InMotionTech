@@ -1,0 +1,11 @@
+## check for active ssh agent
+ssh-add -l
+
+## start ssh agent
+eval "$(ssh-agent -s)"
+RESULT: agent pid 4346
+    where 4346 is the recently activated agent id
+
+
+##add key to active agent
+ssh-add ~/.ssh/ <name of key></name>
